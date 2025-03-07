@@ -1,0 +1,7 @@
+{
+    "message": "Adblock Detected. <br></br>We have detected that you are using an adblocking plugin in your browser. <br></br>The revenue we earn by the advertisements is used to manage this website, we kindly ask you to whitelist our website in your adblocking plugin.",
+    "delaySeconds": 30,
+    "mediaUrl": "URL_TO_MEDIA_HERE",
+    "googleTranslateEnabled": false,
+    "googleTranslateLanguage": "en"
+}
