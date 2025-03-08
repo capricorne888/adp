@@ -4,4 +4,5 @@
     "mediaUrl": "URL_TO_MEDIA_HERE",
     "googleTranslateEnabled": false,
     "googleTranslateLanguage": "en"
+    "backgroundColor": "rgba(0, 0, 0, 0.98)"
 }
